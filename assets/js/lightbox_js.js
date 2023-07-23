@@ -1,6 +1,7 @@
 //selecting all required elements
 
 
+let gallery=document.querySelectorAll(".gallery img")
 
 let previewBox=document.querySelector(".preview-box")
 
